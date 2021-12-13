@@ -8,4 +8,4 @@ pickle5
 gunicorn
 cmake
 opencv-python
-cv2
+opencv-python-headless
