@@ -1,0 +1,9 @@
+opencv-contrib-python
+Flask==0.11.1
+face_recognition
+numpy
+cvlib
+flask
+pickle5
+gunicorn
+cmake
