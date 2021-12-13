@@ -7,3 +7,4 @@ flask
 pickle5
 gunicorn
 cmake
+opencv-python
