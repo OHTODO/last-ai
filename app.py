@@ -6,13 +6,13 @@ app = Flask(__name__)
 def index(name=None):
     return render_template('./index.html',name=name)
 
-@app.route('./exec')
+@app.route('/exec')
 def parse(name=None):
     import face_recognize
     print("done")
     return render_template('./index.html',name=name)
 
-@app.route('./exec2')
+@app.route('/exec2')
 def parse1(name=None):
 	import create_data
 	print("done")
