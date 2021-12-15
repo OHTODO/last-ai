@@ -7,4 +7,4 @@ cvlib
 flask
 pickle5
 gunicorn
-dlib
+tensorflow
